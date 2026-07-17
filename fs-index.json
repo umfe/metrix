@@ -1,0 +1,25 @@
+{
+  "allFiles": [
+    ".github/workflows/push.yml"
+  ],
+  "byDir": {
+    "": {
+      "dirs": [
+        ".github"
+      ],
+      "files": []
+    },
+    ".github": {
+      "dirs": [
+        "workflows"
+      ],
+      "files": []
+    },
+    ".github/workflows": {
+      "dirs": [],
+      "files": [
+        "push.yml"
+      ]
+    }
+  }
+}
