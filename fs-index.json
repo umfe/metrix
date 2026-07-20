@@ -1,13 +1,16 @@
 {
   "allFiles": [
-    ".github/workflows/push.yml"
+    ".github/workflows/push.yml",
+    "metrix.json"
   ],
   "byDir": {
     "": {
       "dirs": [
         ".github"
       ],
-      "files": []
+      "files": [
+        "metrix.json"
+      ]
     },
     ".github": {
       "dirs": [
