@@ -1,6 +1,6 @@
 {
   "allFiles": [
-    ".github/workflows/push.yml",
+    ".github/workflows/sync.yml",
     "metrix.json"
   ],
   "byDir": {
@@ -21,7 +21,7 @@
     ".github/workflows": {
       "dirs": [],
       "files": [
-        "push.yml"
+        "sync.yml"
       ]
     }
   }
