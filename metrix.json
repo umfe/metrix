@@ -1,7 +1,7 @@
 ﻿{
 	"app": {
-		"version": "1.0.7",
-		"versionCode": 7,
+		"version": "1.0.8",
+		"versionCode": 8,
 		"downloadUrl": "https://api.dozy.top/store/app-release.apk"
 	}
 }
